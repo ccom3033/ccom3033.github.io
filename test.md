@@ -1,5 +1,4 @@
 
-
 ## Reunión departamental CCOM
 
 ### 26/marzo/2014
@@ -18,7 +17,7 @@ Representación artística del interior de la Biblioteca de Alejandría. Fundada
 
 !
 
-Nada, solo quería comenzar la presentación como la comienzan los grandes
+Nada, solo quería comenzar la presentación como la comienzan los eruditos.
 
 <img src="http://i1054.photobucket.com/albums/s481/h20g/1000/drumkitty2_zps59bfb639.gif">
 
@@ -51,7 +50,7 @@ CS4HS supports colleges and universities dedicated to CS education in their effo
 
 * 47 solicitantes
 
-* 22 entraban con IGS: 315
+* 22 entran con IGS: 315
 
 * 30 entran con IGS: 310
 
@@ -161,8 +160,7 @@ continuar ejerciendo en el nivel graduado.
 ## Otros asuntos
 
 
-
-* *Elsos* ataca de nuevo ?
+* *Elsos* al acecho ?
 
 !
 
